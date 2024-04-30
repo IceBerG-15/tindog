@@ -38,6 +38,7 @@ To run TinDog locally, follow these steps:
 ![Pic2](screenshots/pic2.png)
 ![Pic3](screenshots/pic3.png)
 ![Pic4](screenshots/pic4.png)
+![Pic5](screenshots/pic5.png)
 
 
 ## Contributing
